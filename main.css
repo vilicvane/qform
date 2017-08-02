@@ -1,0 +1,23 @@
+﻿html { height: 100%; }
+body { margin: 0px; height: 100%; background-color: #EEEEEE; text-align: center; font-family: Microsoft Yahei, 黑体; }
+
+#title { margin-top: 20px; color: #666666; font-size: 16px; }
+
+#q_holder { margin: 20px auto; width: 500px; padding: 15px 20px; border: solid 1px #CCCCCC; border-radius: 10px; background-color: #FFFFFF; text-align: left; }
+
+#q_text { padding: 0px 5px 2px 5px; font-size: 14px; font-weight: bold; color: #666666; border-bottom: solid 2px #999999; }
+#q_options { margin: 5px 20px; font-size: 12px; line-height: 24px; color: #999999; }
+
+.email, #share_text { margin-top: 5px; font-family: Microsoft Yahei, 黑体; font-size: 10px; color: #999999; }
+.email { width: 200px; border-color: #CCCCCC; border-width: 0px 0px 1px 0px; text-align: center; }
+.email:hover { background-color: #F9F9F9; }
+#share_text { width: 458px; border: solid 1px #CCCCCC; }
+
+
+#button_holder { text-align: right; }
+#ok_button { padding: 5px 20px; border: solid 1px #CCCCCC; border-radius: 5px; background-color: #999999; color: #FFFFFF; }
+#ok_button:hover { background-color: #AAAAAA; }
+
+#copyright { font-size: 10px; color: #999999; }
+#copyright a { color: #999999; text-decoration: none; }
+#copyright a:hover { color: #666666; }
